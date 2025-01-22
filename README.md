@@ -19,7 +19,7 @@ To replicate the results presented in the paper, follow the steps below:
 
 1. **Request Access to Test Data**  
    The dataset used in this project is not publicly available.  
-   Contact us at: **pellizzari@dei.unipd.it** to request access to the test data used in the paper.
+   Contact us at: **pellizzari@dei.unipd.it** to request access to the created post-meal response templates and test data used in the paper.
 
 2. **Download the AGATA Tool**  
    The AGATA tool is required to process glucose data.  
